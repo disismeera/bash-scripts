@@ -1,3 +1,3 @@
 # bash-scripts
 
-ping_ip.sh : This Script is used for ping an ip subnet at once.
+ping_ip.sh : This Script is used for ping ips of a subnet all at once.
